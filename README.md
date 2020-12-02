@@ -1,6 +1,6 @@
 # lottery_contracts
 
-Lottery solidity contracts plus mocha testing. 
+React front-end for lottery smart contracts. 
 
 ## Available Scripts
 
